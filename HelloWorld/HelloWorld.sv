@@ -14,6 +14,6 @@ count <= count + 1; // Increment
 
 end
 
-assign LED = count[24]; // Assign LED to be 25th bit.
+assign LED = count[31]; // Assign LED to be 25th bit.
 
 endmodule
