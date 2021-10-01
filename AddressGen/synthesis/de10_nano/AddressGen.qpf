@@ -18,14 +18,14 @@
 # -------------------------------------------------------------------------- #
 #
 # Quartus Prime
-# Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
-# Date created = 10:53:04  November 30, 2020
+# Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# Date created = 00:34:52  September 30, 2021
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "20.1"
-DATE = "10:53:04  November 30, 2020"
+DATE = "00:34:52  September 30, 2021"
 
 # Revisions
 
-PROJECT_REVISION = "core"
+PROJECT_REVISION = "AddressGen"
